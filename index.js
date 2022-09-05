@@ -49,6 +49,26 @@ var movies = [
     question: '“Who was the first Indian to win an Oscar?” ',
     answer: 'Bhanu Athaiya'
   },
+  {
+    array: ['Rajkumar Hirani', 'Sanjay Leela Bhansali', 'Prakash Jha'],
+    question: '“Who was the director of 3 idiot movie?” ',
+    answer: 'Rajkumar Hirani'
+  },
+  {
+    array: ['Sonam Kapoor', 'Anushka Sharma', 'Deepika Padukone'],
+    question: '“Which of the following Actor debuted opposite Shahrukh Khan in movie "Om Shanti Om"?” ',
+    answer: 'Deepika Padukone'
+  },
+  {
+    array: ['Jab Tak Hai Jaan', 'Chennai Express', 'Dil Toh Pagal Hai'],
+    question: '“Which Shah Rukh Film has the tagline "Ready Steady Po" ?” ',
+    answer: 'Chennai Express'
+  },
+  {
+    array: ['Majnu Bhai', 'Nana Das', 'Uday Shetty'],
+    question: '“What is the name of Nana Patekar character in "WELCOME" ?” ',
+    answer: 'Uday Shetty'
+  }
 ];
 
 function moviedialogue(listOfMovies, dialogue, movieName) {
