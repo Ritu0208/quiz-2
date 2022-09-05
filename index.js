@@ -26,7 +26,7 @@ var movies = [
   },
   {
     array: ['In Garden', 'In Hill Station', 'From Top of Water Tank'],
-    question: '"Where soes Veeru proposed to basanti in Sholay movie?"',
+    question: '"Where does Veeru proposed to basanti in Sholay movie?"',
     answer: 'From Top of Water Tank'
   },
   {
