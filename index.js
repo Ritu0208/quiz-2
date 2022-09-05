@@ -20,34 +20,34 @@ var movies = [
 
 
   {
-    array: ['Koi... Mil Gaya', 'Krrish', 'Kaho Naa... Pyaar Hai'],
-    question: '"Meri shaktiyon ka galat istemaal kiya gaya, maa" ',
-    answer: 'Krrish',
+    array: ['Baywatch', 'Terminator', 'Force'],
+    question: '"Famous Bollywood Actress "Priyanka Chopra" first movie in Hollywood was" ',
+    answer: 'Baywatch',
   },
   {
-    array: ['anand', 'Andaz', 'Namak Haraam'],
-    question: '"Babumoshai, zindagi badi honi chahiye, lambi nahi".',
-    answer:'anand'
+    array: ['In Garden', 'In Hill Station', 'From Top of Water Tank'],
+    question: '"Where soes Veeru proposed to basanti in Sholay movie?"',
+    answer: 'From Top of Water Tank'
   },
   {
-    array: ['Dilwale Dulhania Le Jayenge', 'Dil To Pagal Hai', 'Kuch Kuch Hota Hai'],
-    question: '“Rahul, naam toh suna hi hoga.” ',
-    answer:'Dil To Pagal Hai'
+    array: ['Juhi Chawla', 'Sridevi', 'Sonali Bendre'],
+    question: '“Jhanvi Kapoor is the daughter of which veteran Actress?” ',
+    answer: 'Sridevi'
   },
   {
-    array: ['Kabhi Khushi Kabhie Gham', 'Mujhse Dosti Karoge!', 'Hum Dil De Chuke Sanam'],
-    question: '"Kaun hai yeh, jisne dobara mudke mujhe nahi dekha?"',
-    answer:'Kabhi Khushi Kabhie Gham'
+    array: ['58', '72', '67'],
+    question: '"At the age, legend actor Kishore Kumar died"',
+    answer: '58'
   },
   {
-    array: ['Hera Pheri', 'Rang De Basanti', 'Munna Bhai M.B.B.S'],
-    question: '“Tension lene ka nahi, sirf dene ka.”',
-    answer:'Munna Bhai M.B.B.S'
+    array: ['Mother India', 'Ankhen', 'Slumdog Millionare'],
+    question: '“Which was First Indian Movie released commercially in Italy?”',
+    answer: 'Ankhen'
   },
   {
-    array: ['Raanjhanaa', 'Gangs of Wasseypur', 'Masaan'],
-    question: '“Saala ye dukh kaahe khatam nahi hota hai be!” ',
-    answer:'Masaan'
+    array: ['Rajesh Khanna', 'A R Rahman', 'Bhanu Athaiya'],
+    question: '“Who was the first Indian to win an Oscar?” ',
+    answer: 'Bhanu Athaiya'
   },
 ];
 
